@@ -36,7 +36,7 @@ I turn messy data into decisions, teach machines to make predictions, and quietl
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib- ffffff?style=flat&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=Matplotlib&logoColor=black)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=flat&logo=github&logoColor=white)
